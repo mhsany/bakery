@@ -23,6 +23,7 @@ Core functionalities:
 - Vote (add/edit)
 - Stats drawing
 - Bio (candidates)
+- admin account
 
 Useful links
 - https://github.com/cwade12c/ether-vote
