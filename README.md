@@ -12,7 +12,9 @@ We propose, by this project, a different view of this state of affairs. Then we 
 1. Inform citizen
 
 **Presentation of candidates**: in our solution, each candidate in the presidential election will have a page that will present it and will link its program (detailed) and statements. Also any other reliable information about  the candidate and/or his party that will contribute to an informed decision to the citizen will also be made available.
+
 2. Let the citizen speak 
+
 let him vote and see elections emulation.
 
 
